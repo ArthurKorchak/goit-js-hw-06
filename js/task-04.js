@@ -9,4 +9,3 @@ countDown.addEventListener('click', () => {
     counterValue -= 1;
     document.querySelector('#value').innerHTML = `${counterValue}`;
 });
-
